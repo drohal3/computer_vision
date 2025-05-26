@@ -1,4 +1,5 @@
-# Computer vision examples
+# Computer vision investigation
+A mobile platform operates in urban areas — it could be a bicycle, car, delivery robot, or another type of vehicle. The goal is to equip it with computer vision capabilities to monitor infrastructure conditions, traffic density, and other relevant factors.
 
 ## Notebooks
 | **notebook** | **open in colab** |Notes |
