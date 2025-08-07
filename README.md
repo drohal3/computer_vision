@@ -6,4 +6,4 @@ A mobile platform operates in urban areas — it could be a bicycle, car, delive
 |:------------:|:-------------------------------------------------:|:---------------------------:|
 | [preprocessing_fisheye_for_yolo.ipynb](./notebooks/preprocessing_fisheye_for_yolo.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YkP4TrKEJWXGfaywcfqG3qBflor9uCq_?usp=sharing) | ... |
 | [picam360 tutorial](./other/picam360_setup/)  | ...  | ...  |
-| [yolo_train_custom_dataset_potholes.ipynb](./notebooks/yolo_train_custom_dataset_potholes.ipynb)  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1YkP4TrKEJWXGfaywcfqG3qBflor9uCq_?usp=sharing](https://colab.research.google.com/drive/1L45EFCJRPMzh5bAITZy4x6Do4hQsnrRr?usp=sharing))  | ...  |
+| [yolo_train_custom_dataset_potholes.ipynb](./notebooks/yolo_train_custom_dataset_potholes.ipynb)  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L45EFCJRPMzh5bAITZy4x6Do4hQsnrRr?usp=sharing)  | ...  |
